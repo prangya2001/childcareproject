@@ -1,0 +1,32 @@
+1) OBJECTIVE 
+web based project which provides solutions for baby health,product,names,parenting etc. Here user can give baby names,by religion ,baby tips,baby food and baby product. Admin can add and delete baby names.User of the system are users and admin
+ADMIN- 1-can login and logout
+       2- add ,delete ,view baby names
+       3- add new pages
+
+USER - 1-view baby names,food ,tips ,baby products
+
+USER INTERFACE IS MADE WITH 
+professional look and field
+
+Tools TO BE USED--
+1-use any id to develop the project
+2-it may be myeclipse, eclipse 
+3-mySQL8.0.33 for the datbase
+4-server - apache tomacat
+
+FRONTEND AND BACKEND
+frontend - servlet,jsp,jdbc,jquery,javascript,bootstrap,ajex
+backend - mysql8.0.33
+admin password - admin123
+admin name-admin
+
+WORKBENCH
+Create database babycaresolution;
+execute button
+
+table create
+ use (database name)babycaresolution;
+create table (tablename());
+
+questions on servlet 
